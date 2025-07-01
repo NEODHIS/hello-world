@@ -1,4 +1,4 @@
 # hello-world
-My first depository on Github
+My first repository on Github
 I love travelling around the world. 
 Ruto must go.
